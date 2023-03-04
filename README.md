@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/118037314/222889039-7e1f837f-822f-4883-9258-61a92a3c4f80.png">
+<img align="center" alt="Coding" width="800" src="https://user-images.githubusercontent.com/118037314/222889039-7e1f837f-822f-4883-9258-61a92a3c4f80.png">
 <h1 align="center">CYBERSECURITY</h1>
 <h2 align="center">**Cyber Security, Threat Hunting, Penetration Testing and Bug Bounty, **</h1>
 
